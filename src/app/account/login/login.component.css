@@ -1,0 +1,53 @@
+.login-wrapper{
+  border: 1px solid #e5d8d8;
+  width: 500px;
+  margin: 0 auto;
+  border-top: 3px solid #c4d1c4;
+}
+
+.mat-form-field {
+  width: 100%;
+  min-width: 300px;
+}
+
+.box {
+  margin-top: 10%;
+}
+
+.mat-mdc-card {
+  box-shadow: none;
+}
+
+.mat-form-field {
+  width: 100%;
+  min-width: 300px;
+}
+
+
+mat-card-title,
+mat-card-content {
+  display: flex;
+  justify-content: center;
+}
+
+.error {
+  padding: 16px;
+  width: 300px;
+  color: white;
+  background-color: red;
+}
+
+.mat-mdc-form-field {
+  width: 40%;
+}
+
+.login-button {
+  margin: 0 auto;
+  display: block;
+}
+
+.mat-mdc-card-header {
+  display: flex;
+  padding: 16px 16px 0;
+  justify-content: center !important;
+}

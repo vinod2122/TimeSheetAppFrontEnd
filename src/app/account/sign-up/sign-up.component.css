@@ -1,0 +1,41 @@
+.mat-form-field {
+    width: 100%;
+    min-width: 300px;
+  }
+
+.mat-mdc-card {
+box-shadow: none;
+}
+  .mat-form-field {
+    width: 100%;
+    min-width: 300px;
+  }
+.mat-mdc-card-header{
+  text-align: center;
+}
+  mat-card-title,
+  mat-card-content {
+    display: flex;
+    justify-content: center;
+  }
+
+  .error {
+    padding: 16px;
+    width: 300px;
+    color: white;
+    background-color: red;
+  }
+
+  .mat-mdc-form-field {
+    width: 40%;
+}
+.login-button{
+    margin: 0 auto;
+    display: block;
+}
+
+.mat-mdc-card-header {
+    display: flex;
+    padding: 16px 16px 0;
+    justify-content: center;
+}
