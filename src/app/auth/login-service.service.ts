@@ -7,7 +7,7 @@ import { catchError } from 'rxjs/operators';
   providedIn: 'root'
 })
 export class LoginServiceService {
-  private token = '4dee77c9-ee4c-4bf8-999a-157516b9a4b2';
+  private token = '013181bd-b0ef-4c78-842a-b2104cbb8cc6';
   private apiUrl = 'http://localhost:1996/api/login';
 
   constructor(private http: HttpClient) {}
